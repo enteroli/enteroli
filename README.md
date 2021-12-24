@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @enteroli
-- 👀 I’m interested in Golang and JavaScript
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me in Twlgram: @enteroli
+- 🌱 I’m currently learning JavaScript and Golang
+- 📫 How to reach me in Telgram: @enteroli
 
 <!---
 enteroli/enteroli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
